@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 • I'm currently working on my project.<br>🎓 • I'm learning about Ethical hacking.<br>📣 • I'm looking for help with Hyper Coders.<br>🎒 • I'm a teenage student who love to code.<br>🍁 • Ask me about my experience of web dev.<br>🌱 • Sad fact I'm a very lonely person. 
+🔭 • I'm currently working at Hyper-Coders.<br>🎓 • I'm learning about Web development.<br>📣 • I'm looking for help with Hyper Coders.<br>🎒 • I'm a student who love to code.<br>🍁 • Ask me about my experience of Web development.<br>🌱 • Bruh. 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Neiro-xero&icon=8&color=12)](https://visitcount.itsvg.in)
